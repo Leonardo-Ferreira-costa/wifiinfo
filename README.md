@@ -1,8 +1,8 @@
-# e013
+# wifiinfo
 
-A little VBScript that steal Wifi passwords from Windows 
+A little VBScript that steal Wifi name and passwords from Windows 
 
-Into the file WifiName.txt you can see the password of every saved wifi available on every windows computer that support VBscript 
+Este VBScript extrai o nome da rede wifi e a senha.
 
 ![](https://i.imgur.com/wxT1Uj2.png)
 
